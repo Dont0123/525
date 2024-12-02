@@ -1,5 +1,5 @@
 import streamlit as st
-import leafmap.folium as leafmap  # 或者使用 leafmap 而不是 foliumap
+import leafmap.folium as leafmap 
 
 st.set_page_config(layout="wide")
 st.title("AQI 地圖")
